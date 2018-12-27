@@ -13,6 +13,7 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity implements IloginView {
 
+    //叫偶分
     private LoginPresenter presenter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
